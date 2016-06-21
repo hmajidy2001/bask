@@ -1,0 +1,1 @@
+[23-Oct-2015 16:44:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/themes/twentyten/404.php on line 10

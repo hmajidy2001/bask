@@ -1,0 +1,2 @@
+[16-Nov-2015 21:11:29 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/themes/default/index.php on line 1
+[14-Dec-2015 03:15:33 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/themes/default/index.php on line 1

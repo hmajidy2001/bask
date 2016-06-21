@@ -1,0 +1,10 @@
+[27-Apr-2015 23:40:40 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/plugins/hello.php on line 60
+[29-May-2015 10:38:37 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/plugins/hello.php on line 60
+[22-Jun-2015 23:47:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/plugins/hello.php on line 60
+[09-Oct-2015 04:47:38 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/plugins/hello.php on line 60
+[23-Oct-2015 16:41:48 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/plugins/hello.php on line 60
+[17-Feb-2016 07:58:49 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/plugins/hello.php on line 60
+[17-Feb-2016 07:58:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/plugins/hello.php on line 60
+[20-Feb-2016 21:00:34 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/plugins/hello.php on line 60
+[16-Mar-2016 02:28:02 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/plugins/hello.php on line 60
+[16-Mar-2016 02:28:06 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/hamidm2/public_html/howardbaskerville.com/wp-content/plugins/hello.php on line 60
